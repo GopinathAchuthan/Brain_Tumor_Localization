@@ -3,6 +3,7 @@
 Details:
   Number of Brain MRI scan: 3929
   Data Source: https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
+  
 Steps Involved:
   Input: MRI scan.
   First Phase: Detect Tumor using Resnet Classifier Model.
